@@ -6,8 +6,15 @@ Hi, I made this project during the full stack devolopment with python training p
 #It is a mini version of the wordle game.
 
 <br>
-##Tech Stack used: Basic functions, packages and loops
-##It contains a few words from which a random word is selected at random. You have guess a five letter word in 6 tries. Hints will be provided for the correct, partial correct and wrong letters.
+##Tech Stack used:
+Basic functions, packages and loops
+
+##About the project:
+It contains a few words from which a random word is selected at random. You have guess a five letter word in 6 tries. Hints will be provided for the correct, partial correct and wrong letters.
+
+##How does the game goes on
+The random module generated a random word from the list of words. We compare each letter of the word with the letters of the word entered by the user and tells the user about the letters- whether they are correct, partial correct or wrong.
+
 </br>
 
 <br>
