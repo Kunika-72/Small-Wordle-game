@@ -1,4 +1,3 @@
-# Small-Wordle-game
 # FULL STACK DEVOLOPMENT WITH PYTHON - TECHWAVE
 
 # Hi, I made this project during the full stack devolopment with python training program conducted by <b>TechWave</b>
@@ -6,12 +5,9 @@
 #It is a mini version of the wordle game.
 
 <br>
-#Tech Stack used: Basic functions, packages and loops
-<br>
-#It contains a few words from which a random word is selected at random
-<br>
-#You have guess a five letter word in 6 tries
-<br>
+##Tech Stack used: Basic functions, packages and loops
+##It contains a few words from which a random word is selected at random. You have guess a five letter word in 6 tries. Hints will be provided for the correct, partial correct and wrong letters.
+</br>
 
 <br>
 <br>
