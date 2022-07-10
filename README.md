@@ -7,7 +7,7 @@ Hi, I made this project during the full stack devolopment with python training p
 
 <br>
 ##Tech Stack used:
-Basic functions, packages and loops
+Python
 
 ##About the project:
 It contains a few words from which a random word is selected at random. You have guess a five letter word in 6 tries. Hints will be provided for the correct, partial correct and wrong letters.
