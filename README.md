@@ -7,9 +7,11 @@
 
 <br>
 #Tech Stack used: Basic functions, packages and loops
+<br>
 #It contains a few words from which a random word is selected.
+<br>
 #You have guess a five letter word in 6 tries
-</br>
+<br>
 
 
 Follow TechWave on: 
