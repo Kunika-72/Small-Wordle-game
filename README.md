@@ -26,6 +26,7 @@ Follow TechWave on:
 <br>
 Follow me on: 
 <li><a href="https://www.linkedin.com/in/kunika-mittal-135a0022a">LinkedIn</a>
+<li><a href="https://www.instagram.com/reina_akinuk/">Instagram</a>
 
 
 
