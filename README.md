@@ -2,11 +2,12 @@
 
 Hi, I made this project during the full stack devolopment with python training program conducted by <b>TechWave</b>
 
-
-#It is a mini version of the wordle game.
-
 <br>
-##Tech Stack used:
+
+## Project Title:
+Mini wordle 
+
+## Tech Stack used:
 Python
 
 ## About the project:
