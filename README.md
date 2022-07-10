@@ -25,7 +25,7 @@ Follow TechWave on:
 <li><a href="https://www.instagram.com/techwave.courses/">Instagram</a>
 <br>
 Follow me on: 
-<li><a href="">https://www.linkedin.com/in/kunika-mittal-135a0022a</a>
+<li><a href="https://www.linkedin.com/in/kunika-mittal-135a0022a">LinkedIn</a>
 
 
 
