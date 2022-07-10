@@ -8,16 +8,17 @@
 <br>
 #Tech Stack used: Basic functions, packages and loops
 <br>
-#It contains a few words from which a random word is selected.
+#It contains a few words from which a random word is selected at random
 <br>
 #You have guess a five letter word in 6 tries
 <br>
 
-
+<br>
+<br>
 Follow TechWave on: 
 <li><a href="https://www.linkedin.com/company/techwave-courses/">LinkedIn</a>
 <li><a href="https://www.instagram.com/techwave.courses/">Instagram</a>
-
+<br>
 Follow me on: 
 <li><a href="">https://www.linkedin.com/in/kunika-mittal-135a0022a</a>
 
