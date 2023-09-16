@@ -99,18 +99,3 @@ elif command_1=='P':
     play()
 else:
     print("Wrong Command")
-
-
-
-
-    
-        
-
-
-
-
-
-
-
-
-
