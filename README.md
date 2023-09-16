@@ -1,6 +1,6 @@
-# FULL STACK DEVOLOPMENT WITH PYTHON - TECHWAVE
+# FULL STACK DEVOLOPMENT WITH PYTHON - Envocis
 
-Hi, I made this project during the full stack devolopment with python training program conducted by <b>TechWave</b>
+Hi, I made this project during the full stack devolopment with python training program conducted by <b>Envocis</b>
 
 <br>
 
@@ -18,16 +18,4 @@ The random module generates a random word from the list of words. We compare eac
 
 </br>
 
-<br>
-<br>
-Follow TechWave on: 
-<li><a href="https://www.linkedin.com/company/techwave-courses/">LinkedIn</a>
-<li><a href="https://www.instagram.com/techwave.courses/">Instagram</a>
-<br>
-Follow me on: 
-<li><a href="https://www.linkedin.com/in/kunika-mittal-135a0022a">LinkedIn</a>
-<li><a href="https://www.instagram.com/reina_akinuk/">Instagram</a>
-
-
-
-
+<li><a href="https://www.linkedin.com/company/techwave-courses/">Envocis LinkedIn</a>
